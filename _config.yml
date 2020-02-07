@@ -8,7 +8,7 @@
 # Site settings
 title: 노빠구
 description: > # this means to ignore newlines until "baseurl:"
-  비전공자 노빠구 개발자 블르그
+  비전공자 노빠구 개발자 블르그~
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jsh612.github.io/"
 permalink: :title/
