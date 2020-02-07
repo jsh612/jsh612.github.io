@@ -27,7 +27,7 @@ disqus-shortname:
 simpleform-token:
 
 # Redirect users after submitting the form
-redirect-to: http://blog.webjeda.com/thank-you/
+redirect-to: https://jsh612.github.io/
 
 # Site version
 version: 0.9
@@ -42,8 +42,8 @@ markdown: kramdown
 include: [_pages] # Includes files inside _pages directory [Do not remove this]
 
 author:
-  name: Ashwathama
-  image: ashwat.jpg # The author image will be shown on the header. Place this image in /images/ folder.
+  name: 노빠꾸
+  image: 노빠꾸.png # The author image will be shown on the header. Place this image in /images/ folder.
   about: 비전공자 출신, 능동적 자기개발형 개발자
   email: nobacklife612@gmail.com # mailto: is automatically added
 
