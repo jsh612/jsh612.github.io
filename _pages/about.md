@@ -7,7 +7,7 @@ show-in-menu: yes
 
 비전공자으 능동적 자기개발형 개발자의 블로그입니다.
 
-mail: nobacklife612@gmail.com
+nobacklife612@gmail.com
 
 
 <style>
