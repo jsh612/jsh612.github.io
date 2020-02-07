@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "평균60 - 세무사 점수공유 앱"
+description: 세무사 모의고사 점수 공유앱 
+categories: project
+author: 노빠꾸
+---
+
+
+![]({{site.baseurl}}/images/average60.png)
+
+# 세무사 모의고사 성적 공유
+
+- 수험생이 직접만듦!!!
+- 효율적인 나의 성적 관리!!!
+- 다른 수험생들과의 성적 공유로 공부 자극!!!
+- 모의고사 성적 모아보기를 통한 성적 관리!!!
+- 간편한 가입!!!
