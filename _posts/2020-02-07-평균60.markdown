@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "평균60 - 세무사 점수공유 앱"
-description: 세무사 모의고사 점수 공유앱 
+title: "평균60 - 세무사 점수공유 앱"
+description: 세무사 모의고사 점수 공유앱
 categories: project
 author: 노빠꾸
 ---
-
 
 ![]({{site.baseurl}}/images/average60.png)
 
